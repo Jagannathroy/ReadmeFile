@@ -16,7 +16,7 @@
     
 <h3>Technical Team - 1st Year</h3>
     
-<h2>5.Jagannath Roy</h2>
+<h2>5. JAGANNATH ROY</h2>
     
 <h3>Technical Team - 1st Year</h3>
 
